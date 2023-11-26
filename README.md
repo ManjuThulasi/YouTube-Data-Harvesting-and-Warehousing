@@ -60,8 +60,10 @@ _**4. E T L Process**_
 
 **a) Extract data**
 •	Extract the particular YouTube channel data by using the YouTube channel id, with the help of the YouTube API developer console.
+
 **b) Process and Transform the data**
 •	After the extraction process, takes the required details from the extraction data and transform it into JSON format.
+
 **c) Load data**
 •	After the transformation process, the data is stored in the MongoDB database, also It has the option to migrate the data to MySQL database from the MongoDB database.
 
@@ -69,8 +71,10 @@ _**5. E D A Process and Framework**_
 
 **a) Access MySQL DB**
 •	Create a connection to the MySQL server and access the specified MySQL DataBase by using pymysql library and access tables.
+
 **b) Filter the data**
 •	Filter and process the collected data from the tables depending on the given requirements by using SQL queries and transform the processed data into a DataFrame format.
+
 **c) Visualization**
 •	Finally, create a Dashboard by using Streamlit and give dropdown options on the Dashboard to the user and select a question from that menu to analyse the data and show the output in Dataframe Table.
 
