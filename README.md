@@ -78,7 +78,7 @@ _**5. E D A Process and Framework**_
 **c) Visualization**
 •	Finally, create a Dashboard by using Streamlit and give dropdown options on the Dashboard to the user and select a question from that menu to analyse the data and show the output in Dataframe Table.
 
-_**User Guide**_
+6._**User Guide**_
 
 **Step 1. Data collection zone**
 •	Search channel_id, copy and paste on the input box and click the Get data and stored button in the Data collection zone.
