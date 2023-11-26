@@ -1,10 +1,12 @@
 # YouTube-Data-Harvesting-and-Warehousing
-YOUTUBE ELT PROJECT
+**YOUTUBE ELT PROJECT**
 
 **Introduction**
+                                   
                                    YouTube, the online video-sharing platform, has revolutionized the way we consume and interact with media. Launched in 2005, it has grown into a global phenomenon, serving as a hub for entertainment, education, and community engagement. With its vast user base and diverse content library, YouTube has become a powerful tool for individuals, creators, and businesses to share their stories, express themselves, and connect with audiences worldwide.
                                    
 **Project Focus On**
+                                    
                                      This project focused on harvesting data from YOUTUBE Channels using YOUTUBE API to process the data and warehouse it. It extracts the particular channel data by using the YouTube channel ID, processes the data, and stores it in the MongoDB database. It has the option to migrate the data to MySQL from MongoDB then analyse the data and give the results depending on the customer questions.
                                      
 **Developer Guide**
